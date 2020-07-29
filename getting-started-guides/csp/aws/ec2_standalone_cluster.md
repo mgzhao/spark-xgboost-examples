@@ -1,4 +1,4 @@
-# Get Started with XGBoost4J-Spark 3.0 on AWS EC2
+# Get Started with GPU Spark 3.0 on AWS EC2
 This is a getting started guide to Spark 3.0 on AWS EC2. At the end of this guide, the reader will be able to build a standalone GPU Spark cluster and run a sample Apache Spark application that runs on NVIDIA GPUs.
 
 For more details of AWS EC2 and get started, please check the [AWS document](https://aws.amazon.com/ec2/getting-started/).
